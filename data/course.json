@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ]
+  ],
+  "legacy_uid": "18de7a64-f64d-af12-d374-63cf9eb3c015",
+  "instructors": {
+    "content": [
+      "a0059bf4-2f78-b8d5-ba9c-c83f448f3e0c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c06619c4-3540-fbbb-b938-e4f826362fc1",
+    "website": "2-04a-systems-and-controls-spring-2013"
+  },
+  "course_title": "Systems and Controls",
+  "course_description": "This course provides an introduction to linear systems, transfer functions, and Laplace transforms. It covers stability and feedback, and provides basic design tools for specifications of transient response. It also briefly covers frequency-domain techniques.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.04A",
+  "course_image_thumbnail": {
+    "content": "32f95c73-7710-f240-d7d8-b73b666dac77",
+    "website": "2-04a-systems-and-controls-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "a36b954d-7d1c-4d65-8a6b-6431b570b4d6",
+  "site_short_id": "2.04a-spring-2013",
+  "title": "Course Metadata"
+}
